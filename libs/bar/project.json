@@ -1,0 +1,9 @@
+{
+  "name": "bar",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/bar/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project bar --web",
+  "targets": {}
+}
