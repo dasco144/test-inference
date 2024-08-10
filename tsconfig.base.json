@@ -16,7 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@test-inference/bar": ["libs/bar/src/index.ts"],
-      "@test-inference/baz": ["libs/baz/src/index.ts"]
+      "@test-inference/baz/*": ["libs/baz/src/lib/*"]
     }
   },
   "exclude": ["node_modules", "tmp"]
